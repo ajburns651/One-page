@@ -4,7 +4,7 @@
 
 ### Install
 ```
-git clone https://github.com/R-Jin/One-page.git
+git clone https://github.com/ajburns651/One-page.git
 cd One-page
 npm install
 ```
