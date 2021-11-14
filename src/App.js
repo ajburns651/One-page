@@ -13,7 +13,7 @@ import styled from "styled-components";
 const App = () => {
     const [weatherInfo, setWeatherInfo] = useState();
 
-    const [unit, setUnit] = useState("metric");
+    const [unit, setUnit] = useState("imperial");
 
     const [currentQuote, setQuote] = useState();
 

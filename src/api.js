@@ -1,8 +1,8 @@
-export const getWeather = async (unit) => {
-    const city = "Göteborg";
+export const getWeather = async (imperial) => {
+    const city = "San Marcos";
     // const city = "London";
     const key = process.env.REACT_APP_AUTH_TOKEN;
-    const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=${unit}&appid=${key}`;
+    const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=imperial&appid=${key}`;
 
     // Fetch url
     const response = await fetch(url);

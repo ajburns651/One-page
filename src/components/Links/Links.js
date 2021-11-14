@@ -4,27 +4,21 @@ const Links = () => {
     return (
         <Wrapper>
             <Container>
-                <Heading color="blue">~/uni</Heading>
-                <Link href="https://chalmers.instructure.com/courses/15898">
-                    linalg
-                </Link>
-                <Link href="https://chalmers.instructure.com/courses/16011">
-                    grudat
-                </Link>
+                <Heading color="blue">~/School</Heading>
+                <Link href="https://classroom.google.com/u/1/h">classroom</Link>
+                <Link href="https://parent.sduhsd.net/ParentPortal/LoginParent.aspx">aeries</Link>
                 <Link href="https://calendar.google.com">calendar</Link>
                 <Link href="https://gmail.com">gmail</Link>
-                <Link href="https://drive.google.com/drive/u/0/folders/1zKyJSIlqU5ad7IGzLdo3FEOCVBxtKJ2g">
-                    drive
-                </Link>
+                <Link href="https://drive.google.com/drive/my-drive">drive</Link>
             </Container>
 
             <Container>
                 <Heading color="purple">~/dev</Heading>
-                <Link href="https://github.com/">github</Link>
-                <Link href="https://gitlab.com/R-Jin">gitlab</Link>
-                <Link href="https://stackoverflow.com/">stackoverflow</Link>
+                <Link href="https://github.com/ajburns651">github</Link>
+                <Link href="https://gitlab.com/ajburns651/dotfiles">gitlab</Link>
+                <Link href="https://ajburns651.github.io/School-Notes/public/index.html">notes</Link>
                 <Link href="https://wiki.archlinux.org/">archwiki</Link>
-                <Link href="https://www.figma.com">figma</Link>
+                <Link href="https://www.reddit.com/r/unixporn/">unix</Link>
             </Container>
 
             <Container>
