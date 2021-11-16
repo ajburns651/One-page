@@ -24,10 +24,10 @@ const Links = () => {
             <Container>
                 <Heading color="green">~/fun</Heading>
                 <Link href="https://www.youtube.com">youtube</Link>
-                <Link href="https://odysee.com/">odysee</Link>
-                <Link href="https://monkeytype.com/">monkeytype</Link>
-                <Link href="https://play.typeracer.com/">typeracer</Link>
+                <Link href="https://www.netflix.com/">netflix</Link>
+                <Link href="https://discord.com/channels/@me">discord</Link>
                 <Link href="https://www.reddit.com/">reddit</Link>
+                <Link href="https://monkeytype.com/">monkeytype</Link>
             </Container>
         </Wrapper>
     );
