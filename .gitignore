@@ -9,8 +9,11 @@
 /coverage
 
 # production
-/build
-
+build/static
+build/asset-mainfest.json
+build/favicon.ico
+build/manifest.json
+build/robots.txt
 # misc
 .DS_Store
 .env.local
